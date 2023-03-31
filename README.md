@@ -1,1 +1,1 @@
-# udacityCDExercise
+# udacity_CD_exercise
